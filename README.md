@@ -29,7 +29,7 @@
 
 <br>
 
-## WHAT I DO
+## 🎯 WHAT I DO
 
 <table>
   <tr>
@@ -52,7 +52,7 @@
 
 <br>
 
-##  TECHNOLOGIES I MASTER
+## ⚡ TECHNOLOGIES I MASTER
 
 <div align="center">
 
@@ -75,6 +75,8 @@
 ### TOOLS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-07273C?style=for-the-badge&logo=wondershare&logoColor=white)
 
 </div>
 
@@ -95,7 +97,7 @@
 
 <br>
 
-## GITHUB STATISTICS
+## 📊 GITHUB STATISTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
