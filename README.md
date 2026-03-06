@@ -1,7 +1,7 @@
 # 👨‍💻 COSMAS MUSAFIRI - Full Stack Developer & IT Expert
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack;Maintenancier+des+Ordinateurs;PHP+%7C+Laravel+%7C+Angular;Réparation+PC+%7C+Récupération+données" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Maintenance+Expert;PHP+%7C+Laravel+%7C+Angular;PC+Repair+%7C+Data+Recovery" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="30" /> 
-    Bienvenue sur mon profil GitHub
+    Welcome to my GitHub Profile
   </h3>
 </div>
 
@@ -21,30 +21,30 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" />
     </td>
     <td>
-      <b></b>Cosmas MUSAFIRI MUGONGO<br>
-     est un  Développeur Web Full Stack basé à <b>Bukavu, RDC</b>
+      <b>Cosmas MUSAFIRI MUGONGO</b><br>
+      is a Full Stack Web Developer based in <b>Bukavu, DRC</b>
     </td>
   </tr>
 </table>
 
 <br>
 
-##  CE QUE JE FAIS
+## WHAT I DO
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💻 DÉVELOPPEMENT WEB</h3>
+      <h3 align="center">💻 WEB DEVELOPMENT</h3>
       <p align="center">
-        Applications Web modernes et performantes<br>
-        avec les dernières technologies
+        Modern and high-performance Web Applications<br>
+        with the latest technologies
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔧 MAINTENANCE DES ORDINATEURS</h3>
+      <h3 align="center">🔧 COMPUTER MAINTENANCE</h3>
       <p align="center">
-        Réparation et optimisation de matériel<br>
-        Récupération de données professionnelles
+        Hardware repair and optimization<br>
+        Professional data recovery
       </p>
     </td>
   </tr>
@@ -52,7 +52,7 @@
 
 <br>
 
-##  TECHNOLOGIES MAÎTRISÉES
+##  TECHNOLOGIES I MASTER
 
 <div align="center">
 
@@ -68,11 +68,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### BASES DE DONNÉES
+### DATABASES
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### OUTILS
+### TOOLS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -80,22 +80,22 @@
 
 <br>
 
-## 🔧 SERVICES DE MAINTENANCE DES ORDINATEURS
+## 🔧 COMPUTER MAINTENANCE SERVICES
 
 <div align="center">
 
-| 🖥️ MATÉRIEL | 💿 LOGICIEL | 🔐 DONNÉES |
+| 🖥️ HARDWARE | 💿 SOFTWARE | 🔐 DATA |
 |:---:|:---:|:---:|
-| Réparation PC portable & fixe | Installation OS (Windows/Linux/MacOS) | Récupération de données |
-| Réparation cartes mères | Configuration logicielle | Sauvegarde sécurisée |
-| Assemblage sur mesure | Nettoyage et optimisation | Protection antivirus |
-| Diagnostic matériel | Résolution de bugs | Restauration système |
+| Laptop & Desktop Repair | OS Installation (Windows/Linux/MacOS) | Data Recovery |
+| Motherboard Repair | Software Configuration | Secure Backup |
+| Custom Assembly | Cleaning & Optimization | Antivirus Protection |
+| Hardware Diagnostics | Bug Fixing | System Restore |
 
 </div>
 
 <br>
 
-## STATISTIQUES GITHUB
+## GITHUB STATISTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -108,12 +108,12 @@
 
 <br>
 
-## 📫 CONTACTEZ-MOI
+## 📫 CONTACT ME
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-cmusafirimugongo2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmusafirimugongo2@gmail.com)
-[![Localisation](https://img.shields.io/badge/Localisation-Bukavu%2C%20RDC-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Bukavu,+RDC)
+[![Location](https://img.shields.io/badge/Location-Bukavu%2C%20DRC-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Bukavu,+RDC)
 
 </div>
 
@@ -126,8 +126,8 @@
 <br>
 
 <div align="center">
-  <b>📱 WhatsApp : +243 971 312 601</b><br>
-  <b>📧 Email : cmusafirimugongo2@gmail.com</b>
+  <b>📱 WhatsApp: +243 971 312 601</b><br>
+  <b>📧 Email: cmusafirimugongo2@gmail.com</b>
 </div>
 
 <br>
@@ -136,14 +136,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="30" />
-  <h3>⚡ "Développeur Web et Maintenancier des ordinateurs" ⚡</h3>
+  <h3>⚡ "Web Developer & Computer Maintenance Expert" ⚡</h3>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=VISITEURS" />
+  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" /> 
-  <b>Disponible pour des collaborations et projets</b>
+  <b>Available for collaborations and projects</b>
   <br>
   <br>
-  <i>⭐ N'hésitez pas à explorer mes dépôts et à me contacter ! ⭐</i>
+  <i>⭐ Feel free to explore my repositories and contact me! ⭐</i>
 </div>
