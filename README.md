@@ -1,7 +1,7 @@
-# 👨‍💻 COSMAS - Full Stack Developer & IT Expert
+# 👨‍💻 COSMAS MUSAFIRI - Full Stack Developer & IT Expert
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack;Maintenancier+Informatique;PHP+%7C+Laravel+%7C+Angular;Réparation+PC+%7C+Récupération+données" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack;Maintenancier+des+Ordinateurs;PHP+%7C+Laravel+%7C+Angular;Réparation+PC+%7C+Récupération+données" alt="Typing SVG" />
 </div>
 
 ---
@@ -36,15 +36,15 @@
     <td width="50%">
       <h3 align="center">💻 DÉVELOPPEMENT WEB</h3>
       <p align="center">
-        Applications modernes et performantes<br>
+        Applications Web modernes et performantes<br>
         avec les dernières technologies
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔧 MAINTENANCE IT</h3>
+      <h3 align="center">🔧 MAINTENANCE DES ORDINATEURS</h3>
       <p align="center">
         Réparation et optimisation de matériel<br>
-        Récupération de données professionnelle
+        Récupération de données professionnelles
       </p>
     </td>
   </tr>
@@ -59,7 +59,6 @@
 ### BACKEND
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ### FRONTEND
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,25 +70,23 @@
 
 ### BASES DE DONNÉES
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### OUTILS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
 <br>
 
-## 🔧 SERVICES DE MAINTENANCE INFORMATIQUE
+## 🔧 SERVICES DE MAINTENANCE DES ORDINATEURS
 
 <div align="center">
 
 | 🖥️ MATÉRIEL | 💿 LOGICIEL | 🔐 DONNÉES |
 |:---:|:---:|:---:|
-| Réparation PC portable & fixe | Installation OS (Windows/Linux) | Récupération de données |
+| Réparation PC portable & fixe | Installation OS (Windows/Linux/MacOS) | Récupération de données |
 | Réparation cartes mères | Configuration logicielle | Sauvegarde sécurisée |
 | Assemblage sur mesure | Nettoyage et optimisation | Protection antivirus |
 | Diagnostic matériel | Résolution de bugs | Restauration système |
@@ -132,7 +129,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="30" />
-  <h3>⚡ "Développeur le jour, Maintenancier IT quand nécessaire" ⚡</h3>
+  <h3>⚡ "Développeur Web et Maintenancier des ordinateurs" ⚡</h3>
   <br>
   <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=VISITEURS" />
   <br>
