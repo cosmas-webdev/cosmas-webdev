@@ -29,7 +29,7 @@
 
 <br>
 
-## 🎯 WHAT I DO
+## WHAT I DO
 
 <table>
   <tr>
@@ -52,7 +52,7 @@
 
 <br>
 
-## ⚡ TECHNOLOGIES I MASTER
+## TECHNOLOGIES I MASTER
 
 <div align="center">
 
