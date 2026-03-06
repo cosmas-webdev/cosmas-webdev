@@ -29,7 +29,7 @@
 
 <br>
 
-## 🎯 CE QUE JE FAIS
+##  CE QUE JE FAIS
 
 <table>
   <tr>
@@ -52,7 +52,7 @@
 
 <br>
 
-## ⚡ TECHNOLOGIES MAÎTRISÉES
+##  TECHNOLOGIES MAÎTRISÉES
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 
 <br>
 
-## 📊 STATISTIQUES GITHUB
+## STATISTIQUES GITHUB
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
