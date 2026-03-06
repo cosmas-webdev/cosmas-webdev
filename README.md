@@ -21,8 +21,8 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" />
     </td>
     <td>
-      <b></b><br>
-      Développeur Web Full Stack basé à <b>Bukavu, RDC</b>
+      <b></b>Cosmas MUSAFIRI MUGONGO<br>
+     est un  Développeur Web Full Stack basé à <b>Bukavu, RDC</b>
     </td>
   </tr>
 </table>
