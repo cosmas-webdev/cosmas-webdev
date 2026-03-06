@@ -22,7 +22,7 @@
     </td>
     <td>
       <b></b><br>
-      Développeur Full Stack basé à <b>Bukavu, RDC</b>
+      Développeur Web Full Stack basé à <b>Bukavu, RDC</b>
     </td>
   </tr>
 </table>
