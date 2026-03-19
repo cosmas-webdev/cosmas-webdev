@@ -10,7 +10,7 @@
 ## 👋 About Me  
 
 I’m a **Full‑Stack Developer** and **Computer Maintenance Specialist** based in **Bukavu, Democratic Republic of the Congo**.  
-I build modern, scalable web applications and provide professional IT support—from hardware diagnostics to data recovery.  
+I build modern, scalable web applications and provide professional IT support from hardware diagnostics to data recovery.  
 I’m passionate about clean code, performance optimisation, and helping people and businesses get the most out of their technology.
 
 📍 **Location:** Bukavu, DRC  
@@ -28,9 +28,9 @@ I’m passionate about clean code, performance optimisation, and helping people 
 - **Tools & Workflow:** Git, GitHub, Adobe Photoshop, Wondershare Filmora  
 
 ### **IT & Hardware Services**  
-- **Hardware:** Laptop/Desktop repair, motherboard troubleshooting, custom assembly, diagnostics  
+- **Hardware:** Laptop/Desktop repair, motherboard, troubleshooting, custom assembly, diagnostics  
 - **Software:** OS installation (Windows, Linux, macOS), software configuration, system optimisation, malware removal  
-- **Data:** Professional data recovery, secure backup solutions, system restore  
+- **Data:** Professional data recovery, secure backup solutions, system restore. 
 
 ---
 
