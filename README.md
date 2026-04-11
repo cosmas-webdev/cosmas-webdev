@@ -44,7 +44,7 @@ Here are some of the websites I have developed and currently maintain:
 | [🌐 AJEFEM](https://ajefem.org) | Platform for the Association des Jeunes Femmes (AJEFEM). | PHP, HTML, CSS, JS, MySQL|
 | [🌐 MS Solutions Lab](https://www.ms-solutionslab.com) | Corporate website for MS Solutions Lab, a tech solutions company. | PHP, HTML, CSS, JS, MySQL |
 | [🌐 Hetec Burkina Digit](https://hetecburkinadigit.net) | Software of HETEC BURKINA FASO | PHP, HTML, CSS, JS, MySQL |
-| [🌐 MCC – ADFE](http://mcc.adfeasbl.org) | Website of MUSAFIRI COMPUTER CENTER. | PHP, HTML, CSS, MySQL |
+| [🌐 MCC – ADFE](https://mcc.adfeasbl.org/) | Plateforme of MUSAFIRI COMPUTER CENTER. | PHP, HTML, CSS, MySQL |
 
 *… and several other internal projects and applications.*
 
