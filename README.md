@@ -16,7 +16,7 @@
 I am a **Full‑Stack Developer**, **IT Manager**, and **Data Analyst** based in **Bukavu, Democratic Republic of the Congo**, with **6+ years of experience** delivering robust web applications and managing IT infrastructure for humanitarian organizations.
 
 My expertise spans:
-- **Software Engineering:** Full development lifecycle—backend architecture (PHP/Laravel), frontend integration (React, Angular, TailwindCSS), and database management (MySQL, Firebase)
+- **Software Engineering:** Full development lifecycle backend architecture (PHP/Laravel), frontend integration (React, Angular, TailwindCSS), and database management (MySQL, Firebase)
 - **IT Management:** Currently serving as **IT Manager at ADFE ASBL**, designing and maintaining reliable digital solutions for humanitarian missions
 - **Hardware & Infrastructure:** Computer maintenance, diagnostics, data recovery, and system optimization
 
