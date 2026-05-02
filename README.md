@@ -1,198 +1,117 @@
-# 👨‍💻 Cosmas MUSAFIRI MUGONGO  
-### Full-Stack Developer • IT Manager • Data Analyst • AI Enthusiast  
+# 👨‍💻 Cosmas MUSAFIRI MUGONGO
+
+### Full‑Stack Developer | IT Manager | Data Analyst & AI Enthusiast
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;IT+Manager+%7C+Data+Analyst;Laravel+%7C+React+%7C+Angular;Building+Scalable+Digital+Solutions;6%2B+Years+Experience" />
-
-<br><br>
-
-<a href="https://adfeasbl.org/portfolio/index.php#accueil">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="mailto:cmusafirimugongo2@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/cosmas-musafiri-mugongo-614541325">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=cosmas-webdev&style=for-the-badge&color=blueviolet" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full‑Stack+Developer;IT+Manager+%7C+Data+Analyst;PHP+%7C+Laravel+%7C+React+%7C+Angular;Computer+Maintenance+%26+Repair;Building+robust+solutions" alt="Professional Typing SVG" />
+  <br>
+  <a href="https://adfeasbl.org/portfolio/index.php#accueil"><img src="https://img.shields.io/badge/🌐_Portfolio-cosmas--musafiri.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
 
-## 🚀 Professional Summary
+## 📋 Professional Profile
 
-Results-driven **Full-Stack Developer & IT Manager** with **6+ years of experience** designing, developing, and deploying scalable digital solutions.
+I am a **Full‑Stack Developer**, **IT Manager**, and **Data Analyst** based in **Bukavu, Democratic Republic of the Congo**, with **6+ years of experience** delivering robust web applications and managing IT infrastructure for humanitarian organizations.
 
-✔️ Expert in **Laravel, React, Angular & MySQL**  
-✔️ Strong background in **IT infrastructure & systems management**  
-✔️ IT Manager at **ADFE ASBL (NGO sector)**  
-✔️ Passionate about **AI, Data Analytics & Digital Transformation**
+My expertise spans:
+- **Software Engineering:** Full development lifecycle backend architecture (PHP/Laravel), frontend integration (React, Angular, TailwindCSS), and database management (MySQL, Firebase)
+- **IT Management:** Currently serving as **IT Manager at ADFE ASBL**, designing and maintaining reliable digital solutions for humanitarian missions
+- **Hardware & Infrastructure:** Computer maintenance, diagnostics, data recovery, and system optimization
 
-📍 Bukavu, DR Congo  
-📧 cmusafirimugongo2@gmail.com  
-📱 WhatsApp: +243 971 312 601  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Web Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,angular,html,css,tailwind,bootstrap" />
-</p>
-
-### 🗄️ Database & Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### ⚙️ Tools & DevOps
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### 🖥️ Systems & IT Infrastructure
-<p align="left">
-<img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
+📍 **Location:** Bukavu, DRC  
+📧 **Email:** [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com)  
+📱 **WhatsApp:** [+243 971 312 601](https://wa.me/243971312601)  
+🔗 **LinkedIn:** [linkedin.com/in/cosmas-musafiri-mugongo-614541325](https://linkedin.com/in/cosmas-musafiri-mugongo-614541325)  
+🌐 **Portfolio:** [adfeasbl.org/portfolio](https://adfeasbl.org/portfolio/index.php#accueil)
 
 ---
 
-## 🧠 Core Competencies
+## 🌐 Languages
 
-- 🔹 Full-Stack Web Development (Architecture & Deployment)  
-- 🔹 REST API Design & Integration  
-- 🔹 IT Project Management & Digital Strategy  
-- 🔹 Computer Maintenance & Hardware Diagnostics  
-- 🔹 Data Recovery & Backup Systems  
-- 🔹 Performance Optimization & Security  
-- 🔹 Technical Support & Troubleshooting  
-
----
-
-## 📊 Data Analysis & Creative Tools
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IBM_SPSS_Statistics_Logo.svg" width="60"/>
-<img src="https://seeklogo.com/images/K/kobo-toolbox-logo-9D7C6A1E2E-seeklogo.com.png" width="40"/>
-<img src="https://seeklogo.com/images/W/wondershare-filmora-logo-7F1B2BFEA3-seeklogo.com.png" width="40"/>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40"/>
-</p>
-
-**Power BI • SPSS • KoboCollect • Filmora • Canva • Microsoft Office**
+| Language | Proficiency |
+|----------|-------------|
+| French   | Native / Bilingual |
+| English  | Professional working proficiency |
+| Swahili  | Native / Bilingual |
+| Spanish  | Intermediate |
 
 ---
 
-## 🌍 Languages
+## 🛠️ Core Competencies
 
-| Language | Level |
-|----------|------|
-| 🇫🇷 French | Native |
-| 🇬🇧 English | Professional |
-| 🇸🇦 Swahili | Native |
-| 🇪🇸 Spanish | Intermediate |
+### **Software Engineering & Web Development**
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | PHP 8+, Laravel, RESTful API design |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React, Angular, Bootstrap, **TailwindCSS** |
+| **Database** | MySQL, Firebase |
+| **DevOps** | Git, GitHub, Agile methodologies, CI/CD |
+| **Testing** | Unit testing, debugging, performance optimization |
 
----
+### **IT Infrastructure & Management**
+| Category | Skills |
+|----------|--------|
+| **IT Management** | Team leadership, IT project management, digital strategy |
+| **Hardware** | Laptop/desktop repair, motherboard-level diagnostics, custom assembly |
+| **Operating Systems** | Windows, Linux (Ubuntu/Debian), macOS |
+| **System Optimization** | Malware removal, performance tuning, secure backups |
+| **Data Recovery** | Professional data recovery, secure erasure, disaster recovery |
 
-## 🚀 Featured Projects
-
-### 🌐 **ADFE ASBL**
-- NGO digital platform with full **admin dashboard**
-- Improved internal operations & data management  
-**Tech:** PHP • MySQL • JavaScript  
-
----
-
-### 🌐 **AJEFEM Platform**
-- Women empowerment digital ecosystem  
-- Secure member area + SEO optimization  
-**Tech:** PHP • MySQL  
+### **Data Analysis & Design Tools**
+SPSS, KoboCollect, PowerBI, Adobe Photoshop, Wondershare Filmora, Canva, Microsoft Office Suite
 
 ---
 
-### 🌐 **MS Solutions Lab**
-- Corporate website for IT consulting services  
-- Modern UI + responsive design  
-**Tech:** PHP • TailwindCSS  
+## 🚀 Featured Projects & Deployments
 
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌐 [**ADFE ASBL**](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian organization. | PHP MySQL JavaScript |
+| 🌐 [**AJEFEM**](https://ajefem.org) | Digital platform for women's empowerment with secure member area and advanced SEO. | PHP MySQL JavaScript SEO |
+| 🌐 [**MS Solutions Lab**](https://www.ms-solutionslab.com) | Corporate website for IT consulting firm with admin dashboard. | PHP TailwindCSS MySQL |
+| 🌐 [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | PHP MySQL JavaScript |
+| 🏫 [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | PHP MySQL HTML5 CSS3 |
+| 🏙️ [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | PHP JavaScript Chart.js MySQL |
 
-### 🌐 **HETEC Burkina System**
-- Complete enterprise management system  
-- Multi-user access & data handling  
-**Tech:** PHP • MySQL  
-
----
-
-### 🏫 **MCC Portal**
-- E-learning platform with certifications  
-- Course management system  
-**Tech:** PHP • MySQL  
-
----
-
-### 🏙️ **Citizen Management System**
-- Smart city solution for population tracking  
-- Data visualization dashboards  
-**Tech:** PHP • Chart.js • MySQL  
-
----
-
-🔗 More projects: https://github.com/cosmas-webdev  
+*Additional proprietary projects available upon request.*
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=tokyonight&hide_border=true" width="48%" alt="Contribution Streak" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=tokyonight&hide_border=true" width="45%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
 </div>
 
 ---
 
-## 🤝 Let's Work Together
+## 🤝 Connect & Collaborate
 
-I am open to:
-
-✔️ Freelance & remote opportunities  
-✔️ International collaborations  
-✔️ Software development contracts  
-✔️ IT consulting missions  
+I welcome inquiries regarding:
+- 💼 **Freelance & Consulting:** Web application development, IT infrastructure
+- 🤝 **Technical Collaborations:** Open-source projects, technical writing
+- 🧠 **Professional Networking:** Connecting with developers, tech leaders, and partners
 
 <div align="center">
-
-<a href="mailto:cmusafirimugongo2@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/243971312601">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/cosmas-musafiri-mugongo-614541325">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/cosmas-webdev">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="mailto:cmusafirimugongo2@gmail.com"><img src="https://img.shields.io/badge/Email-cmusafirimugongo2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/243971312601"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://linkedin.com/in/cosmas-musafiri-mugongo-614541325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/cosmas-webdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://adfeasbl.org/portfolio/index.php#accueil"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 *"Building scalable, impactful and intelligent digital solutions."*
-
+  <br>
+  <i>"Building robust solutions, one commit at a time."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=👁️" alt="Profile Views" />
 </div>
