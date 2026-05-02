@@ -27,9 +27,9 @@
 
 Results-driven **Full-Stack Developer & IT Manager** with **6+ years of experience** designing, developing, and deploying scalable digital solutions.
 
-✔️ Strong expertise in **Laravel, React, Angular & MySQL**  
-✔️ Proven experience in **IT infrastructure & system optimization**  
-✔️ Currently leading IT operations at **ADFE ASBL (NGO sector)**  
+✔️ Expert in **Laravel, React, Angular & MySQL**  
+✔️ Strong background in **IT infrastructure & systems management**  
+✔️ IT Manager at **ADFE ASBL (NGO sector)**  
 ✔️ Passionate about **AI, Data Analytics & Digital Transformation**
 
 📍 Bukavu, DR Congo  
@@ -77,7 +77,12 @@ Results-driven **Full-Stack Developer & IT Manager** with **6+ years of experien
 ## 📊 Data Analysis & Creative Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ps" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IBM_SPSS_Statistics_Logo.svg" width="60"/>
+<img src="https://seeklogo.com/images/K/kobo-toolbox-logo-9D7C6A1E2E-seeklogo.com.png" width="40"/>
+<img src="https://seeklogo.com/images/W/wondershare-filmora-logo-7F1B2BFEA3-seeklogo.com.png" width="40"/>
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40"/>
 </p>
 
 **Power BI • SPSS • KoboCollect • Filmora • Canva • Microsoft Office**
@@ -97,14 +102,47 @@ Results-driven **Full-Stack Developer & IT Manager** with **6+ years of experien
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|-----------|
-| 🌐 **ADFE ASBL** | NGO platform + admin dashboard | PHP, MySQL, JS |
-| 🌐 **AJEFEM** | Women empowerment platform | PHP, MySQL |
-| 🌐 **MS Solutions Lab** | IT consulting company website | PHP, Tailwind |
-| 🌐 **HETEC Burkina** | Full enterprise management system | PHP, MySQL |
-| 🏫 **MCC Portal** | E-learning & certification platform | PHP, MySQL |
-| 🏙️ **Citizen Management System** | Smart city solution | PHP, Chart.js |
+### 🌐 **ADFE ASBL**
+- NGO digital platform with full **admin dashboard**
+- Improved internal operations & data management  
+**Tech:** PHP • MySQL • JavaScript  
+
+---
+
+### 🌐 **AJEFEM Platform**
+- Women empowerment digital ecosystem  
+- Secure member area + SEO optimization  
+**Tech:** PHP • MySQL  
+
+---
+
+### 🌐 **MS Solutions Lab**
+- Corporate website for IT consulting services  
+- Modern UI + responsive design  
+**Tech:** PHP • TailwindCSS  
+
+---
+
+### 🌐 **HETEC Burkina System**
+- Complete enterprise management system  
+- Multi-user access & data handling  
+**Tech:** PHP • MySQL  
+
+---
+
+### 🏫 **MCC Portal**
+- E-learning platform with certifications  
+- Course management system  
+**Tech:** PHP • MySQL  
+
+---
+
+### 🏙️ **Citizen Management System**
+- Smart city solution for population tracking  
+- Data visualization dashboards  
+**Tech:** PHP • Chart.js • MySQL  
+
+---
 
 🔗 More projects: https://github.com/cosmas-webdev  
 
@@ -113,12 +151,14 @@ Results-driven **Full-Stack Developer & IT Manager** with **6+ years of experien
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=tokyonight&hide_border=true" width="45%" />
+
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
 </div>
 
 ---
