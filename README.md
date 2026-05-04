@@ -85,6 +85,8 @@ My expertise spans:
 | 🌐 [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | `PHP` `MySQL` `JavaScript` |
 | 🏫 [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
 | 🏙️ [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | `PHP` `JavaScript` `Chart.js` `MySQL` |
+| 🏫 [**MCC Gestion**](https://github.com/cosmas-webdev/gestion_mcc) | Complete training center management system (Apprenants, Formations, Paiements, Certificats). | `PHP` `MySQL` `CSS Grid/Flexbox` `JavaScript` |
+| 📚 [**English Learning App**](https://cosmas-webdev.github.io/english-learning-app/) | Interactive English vocabulary learning app with flashcards, quizzes, and 3000+ words. | `HTML5` `CSS3` `JavaScript` |
 
 <div align="right">
   <i>✨ Additional proprietary projects available upon request.</i>
