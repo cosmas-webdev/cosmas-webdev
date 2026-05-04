@@ -77,14 +77,14 @@ My expertise spans:
 
 ## 🚀 Featured Projects & Deployments
 
-| 🌐 Project | 📝 Description | ⚙️ Tech Stack |
-|:-----------|:---------------|:--------------|
-| [**ADFE ASBL**](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian organization. | `PHP` `MySQL` `JavaScript` |
-| [**AJEFEM**](https://ajefem.org) | Digital platform for women's empowerment with secure member area and advanced SEO. | `PHP` `MySQL` `JavaScript` `SEO` |
-| [**MS Solutions Lab**](https://www.ms-solutionslab.com) | Corporate website for IT consulting firm with admin dashboard. | `PHP` `TailwindCSS` `MySQL` |
-| [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | `PHP` `MySQL` `JavaScript` |
-| [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
-| [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | `PHP` `JavaScript` `Chart.js` `MySQL` |
+| Project | Description | Tech Stack |
+|:--------|:------------|:-----------|
+| 🌐 [**ADFE ASBL**](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian organization. | `PHP` `MySQL` `JavaScript` |
+| 🌐 [**AJEFEM**](https://ajefem.org) | Digital platform for women's empowerment with secure member area and advanced SEO. | `PHP` `MySQL` `JavaScript` `SEO` |
+| 🌐 [**MS Solutions Lab**](https://www.ms-solutionslab.com) | Corporate website for IT consulting firm with admin dashboard. | `PHP` `TailwindCSS` `MySQL` |
+| 🌐 [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | `PHP` `MySQL` `JavaScript` |
+| 🏫 [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
+| 🏙️ [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | `PHP` `JavaScript` `Chart.js` `MySQL` |
 
 <div align="right">
   <i>✨ Additional proprietary projects available upon request.</i>
@@ -95,20 +95,12 @@ My expertise spans:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/cosmas-webdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/cosmas-webdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=tokyonight&hide_border=true" width="48%" alt="Contribution Streak" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<br>
-
 <div align="center">
-  <a href="https://github.com/cosmas-webdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
 
 ---
