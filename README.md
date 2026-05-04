@@ -25,25 +25,21 @@ My expertise spans:
 - 🏢 **IT Management:** Currently serving as **IT Manager at ADFE ASBL**, designing and maintaining reliable digital solutions for humanitarian missions
 - 🔧 **Hardware & Infrastructure:** Computer maintenance, diagnostics, data recovery, and system optimization
 
-<div align="center">
-
-| 📍 **Location** | 📧 **Email** | 📱 **WhatsApp** | 🔗 **LinkedIn** | 🌐 **Portfolio** |
-|:---:|:---:|:---:|:---:|:---:|
-| Bukavu, DRC | [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com) | [+243 971 312 601](https://wa.me/243971312601) | [Profil LinkedIn](https://linkedin.com/in/cosmas-musafiri-mugongo-614541325) | [adfeasbl.org/portfolio](https://adfeasbl.org/portfolio/index.php#accueil) |
-
-</div>
+📍 **Location:** Bukavu, DRC  
+📧 **Email:** [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com)  
+📱 **WhatsApp:** [+243 971 312 601](https://wa.me/243971312601)  
+🔗 **LinkedIn:** [linkedin.com/in/cosmas-musafiri-mugongo-614541325](https://linkedin.com/in/cosmas-musafiri-mugongo-614541325)  
+🌐 **Portfolio:** [adfeasbl.org/portfolio](https://adfeasbl.org/portfolio/index.php#accueil)
 
 ---
 
 ## 🌐 Languages
 
-<div align="center">
-
-| 🇫🇷 French | 🇬🇧 English | 🇨🇩 Swahili | 🇪🇸 Spanish |
-|:---:|:---:|:---:|:---:|
-| Native / Bilingual | Professional working proficiency | Native / Bilingual | Intermediate |
-
-</div>
+| Language | Proficiency |
+|----------|-------------|
+| French   | Native / Bilingual |
+| English  | Professional working proficiency |
+| Swahili  | Native / Bilingual |
 
 ---
 
@@ -83,12 +79,12 @@ My expertise spans:
 
 | 🌐 Project | 📝 Description | ⚙️ Tech Stack |
 |:-----------|:---------------|:--------------|
-| 🌐 [**ADFE ASBL**](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian organization. | `PHP` `MySQL` `JavaScript` |
-| 🌐 [**AJEFEM**](https://ajefem.org) | Digital platform for women's empowerment with secure member area and advanced SEO. | `PHP` `MySQL` `JavaScript` `SEO` |
-| 🌐 [**MS Solutions Lab**](https://www.ms-solutionslab.com) | Corporate website for IT consulting firm with admin dashboard. | `PHP` `TailwindCSS` `MySQL` |
-| 🌐 [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | `PHP` `MySQL` `JavaScript` |
-| 🏫 [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
-| 🏙️ [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | `PHP` `JavaScript` `Chart.js` `MySQL` |
+| [**ADFE ASBL**](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian organization. | `PHP` `MySQL` `JavaScript` |
+| [**AJEFEM**](https://ajefem.org) | Digital platform for women's empowerment with secure member area and advanced SEO. | `PHP` `MySQL` `JavaScript` `SEO` |
+| [**MS Solutions Lab**](https://www.ms-solutionslab.com) | Corporate website for IT consulting firm with admin dashboard. | `PHP` `TailwindCSS` `MySQL` |
+| [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | `PHP` `MySQL` `JavaScript` |
+| [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
+| [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | `PHP` `JavaScript` `Chart.js` `MySQL` |
 
 <div align="right">
   <i>✨ Additional proprietary projects available upon request.</i>
@@ -99,15 +95,20 @@ My expertise spans:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=2F81F7&icon_color=2F81F7&text_color=FFFFFF&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=tokyonight&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=8B949E" width="48%" alt="Contribution Streak" />
+  <a href="https://github.com/cosmas-webdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/cosmas-webdev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=tokyonight&hide_border=true" width="48%" alt="Contribution Streak" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true&title_color=2F81F7&text_color=FFFFFF&bg_color=0D1117" width="40%" alt="Top Languages" />
+  <a href="https://github.com/cosmas-webdev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -121,23 +122,23 @@ I welcome inquiries regarding:
 
 <div align="center">
   <a href="mailto:cmusafirimugongo2@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-cmusafirimugongo2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-cmusafirimugongo2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://wa.me/243971312601">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-%2B243_971_312_601-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/cosmas-musafiri-mugongo-614541325">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-cosmas--musafiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/cosmas-webdev">
-    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-cosmas--webdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://adfeasbl.org/portfolio/index.php#accueil">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -145,9 +146,7 @@ I welcome inquiries regarding:
 
 <div align="center">
   <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%" alt="Random Dev Quote" />
-  <br><br>
   <i>"Building robust solutions, one commit at a time."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=%F0%9F%91%81%EF%B8%8F_Profile_Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=%F0%9F%91%81%EF%B8%8F" alt="Profile Views" />
 </div>
