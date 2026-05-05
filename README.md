@@ -1,6 +1,6 @@
 # 👨‍💻 Cosmas MUSAFIRI MUGONGO
 
-### Full‑Stack Developer | IT Manager | Data Analyst & AI Enthusiast
+### Full‑Stack Developer | IT Manager | Data Analyst & AI Enthusiast | Open Source Enthusiast
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full‑Stack+Developer;IT+Manager+%7C+Data+Analyst;PHP+%7C+Laravel+%7C+React+%7C+Angular;Computer+Maintenance+%26+Repair;Building+robust+solutions" alt="Professional Typing SVG" />
@@ -36,7 +36,7 @@ My expertise spans:
 ## 🌐 Languages
 
 | Language | Proficiency |
-|----------|-------------|
+|:---------|:------------|
 | French   | Native / Bilingual |
 | English  | Professional working proficiency |
 | Swahili  | Native / Bilingual |
