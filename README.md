@@ -117,20 +117,6 @@ My expertise spans:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/cosmas-webdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/cosmas-webdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ## 🤝 Connect & Collaborate
 
 I welcome inquiries regarding:
