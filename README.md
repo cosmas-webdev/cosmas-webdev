@@ -97,12 +97,20 @@ My expertise spans:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1500" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1500" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+</div>
+
+<div align="center">
+  <br>
+  <b>💡 Alternative Stats (if above doesn't load):</b><br>
+  <a href="https://github.com/cosmas-webdev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosmas-webdev&theme=github_dark" alt="Profile Summary" />
+  </a>
 </div>
 
 ---
