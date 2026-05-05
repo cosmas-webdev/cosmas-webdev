@@ -1,6 +1,3 @@
-Voici le fichier README.md complet avec une mise en page améliorée (plus jolie, plus structurée) mais sans aucune modification du contenu textuel ni des liens :
-
-```markdown
 # 👨‍💻 Cosmas MUSAFIRI MUGONGO
 
 ### Full‑Stack Developer | IT Manager | Data Analyst & AI Enthusiast
@@ -39,7 +36,7 @@ My expertise spans:
 ## 🌐 Languages
 
 | Language | Proficiency |
-|:---------|:------------|
+|----------|-------------|
 | French   | Native / Bilingual |
 | English  | Professional working proficiency |
 | Swahili  | Native / Bilingual |
@@ -147,4 +144,3 @@ I welcome inquiries regarding:
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=%F0%9F%91%81%EF%B8%8F" alt="Profile Views" />
 </div>
-```
