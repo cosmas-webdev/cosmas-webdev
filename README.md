@@ -5,8 +5,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full‑Stack+Developer;IT+Manager+%7C+Data+Analyst;PHP+%7C+Laravel+%7C+React+%7C+Angular;Computer+Maintenance+%26+Repair;Building+robust+solutions" alt="Professional Typing SVG" />
   <br><br>
-  <a href="https://adfeasbl.org/portfolio/index.php#accueil">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-cosmas--musafiri.com-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://cosmas-musafiri-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-cosmas--musafiri.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F_Profile_Views" alt="Profile Views" />
@@ -29,7 +29,7 @@ My expertise spans:
 📧 **Email:** [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com)  
 📱 **WhatsApp:** [+243 971 312 601](https://wa.me/243971312601)  
 🔗 **LinkedIn:** [linkedin.com/in/cosmas-musafiri-mugongo-614541325](https://linkedin.com/in/cosmas-musafiri-mugongo-614541325)  
-🌐 **Portfolio:** [adfeasbl.org/portfolio](https://adfeasbl.org/portfolio/index.php#accueil)
+🌐 **Portfolio:** [cosmas-musafiri-portfolio.vercel.app](https://cosmas-musafiri-portfolio.vercel.app)
 
 ---
 
@@ -141,8 +141,8 @@ I welcome inquiries regarding:
     <img src="https://img.shields.io/badge/GitHub-cosmas--webdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://adfeasbl.org/portfolio/index.php#accueil">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://cosmas-musafiri-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
