@@ -26,7 +26,7 @@ I am a **Full-Stack Developer**, **IT Manager**, and **Data Analyst** based in *
 
 I specialize in the full development lifecycle — from backend architecture (PHP/Laravel) and frontend integration (React, Angular, TailwindCSS) to database management (MySQL, Firebase) and IT operations. 
 
-I am currently seeking **open-source collaborations** and **freelance consulting opportunities** to help scale impactful projects.
+Currently seeking **open-source collaborations** and **freelance consulting opportunities** to scale impactful projects.
 
 📍 **Location:** Bukavu, DRC  
 📧 **Email:** [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com)  
@@ -79,13 +79,29 @@ I am currently seeking **open-source collaborations** and **freelance consulting
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <a href="https://github.com/cosmas-webdev">
-    <img src="https://streak-stats.demolab.com/?user=cosmas-webdev&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br><br>
-  <a href="https://github.com/cosmas-webdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/cosmas-webdev">
+        <img src="https://github-readme-stats.vercel.app/api?username=cosmas-webdev&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cosmas-webdev">
+        <img src="https://streak-stats.demolab.com/?user=cosmas-webdev&theme=dark&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/cosmas-webdev">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
