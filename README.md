@@ -2,17 +2,17 @@
 
 # 👨‍💻 Cosmas MUSAFIRI MUGONGO
 
-### Full‑Stack Developer | IT Manager | Data Analyst & AI Enthusiast | Open Source Enthusiast
+### Full-Stack Developer | IT Manager | Data Analyst & AI Enthusiast | Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full‑Stack+Developer;IT+Manager+%7C+Data+Analyst;PHP+%7C+Laravel+%7C+React+%7C+Angular;Computer+Maintenance+%26+Repair;Building+robust+solutions" alt="Professional Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;IT+Manager+%7C+Data+Analyst;PHP+%7C+Laravel+%7C+React+%7C+Angular;Computer+Maintenance+%26+Repair;Building+robust+solutions" alt="Professional Typing SVG" />
 
 <br>
 
 <a href="https://cosmas-musafiri-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-cosmas--musafiri.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-cosmas--musafiri.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F_Profile_Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=👁️_Profile_Views" alt="Profile Views" />
 
 </div>
 
@@ -22,28 +22,15 @@
 
 ## 📋 Professional Profile
 
-I am a **Full‑Stack Developer**, **IT Manager**, and **Data Analyst** based in **Bukavu, Democratic Republic of the Congo**, with **6+ years of experience** delivering robust web applications and managing IT infrastructure for humanitarian organizations.
+I am a **Full-Stack Developer**, **IT Manager**, and **Data Analyst** based in **Bukavu, Democratic Republic of the Congo**, with **6+ years of experience** delivering robust web applications and managing IT infrastructure for humanitarian organizations.
 
-My expertise spans:
-- 💻 **Software Engineering:** Full development lifecycle backend architecture (PHP/Laravel), frontend integration (React, Angular, TailwindCSS), and database management (MySQL, Firebase)
-- 🏢 **IT Management:** Currently serving as **IT Manager at ADFE ASBL**, designing and maintaining reliable digital solutions for humanitarian missions
-- 🔧 **Hardware & Infrastructure:** Computer maintenance, diagnostics, data recovery, and system optimization
+I specialize in the full development lifecycle — from backend architecture (PHP/Laravel) and frontend integration (React, Angular, TailwindCSS) to database management (MySQL, Firebase) and IT operations. I am currently seeking **open-source collaborations** and **freelance consulting opportunities** to help scale impactful projects.
 
 📍 **Location:** Bukavu, DRC  
 📧 **Email:** [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com)  
 📱 **WhatsApp:** [+243 971 312 601](https://wa.me/243971312601)  
-🔗 **LinkedIn:** [linkedin.com/in/cosmas-musafiri-mugongo-614541325](https://linkedin.com/in/cosmas-musafiri-mugongo-614541325)  
+🔗 **LinkedIn:** [linkedin.com/in/cosmas-musafiri-mugongo](https://linkedin.com/in/cosmas-musafiri-mugongo-614541325)  
 🌐 **Portfolio:** [cosmas-musafiri-portfolio.vercel.app](https://cosmas-musafiri-portfolio.vercel.app)
-
----
-
-## 🌐 Languages
-
-| Language | Proficiency |
-|:---------|:------------|
-| French   | Native / Bilingual |
-| English  | Professional working proficiency |
-| Swahili  | Native / Bilingual |
 
 ---
 
@@ -54,28 +41,19 @@ My expertise spans:
 | Category | Technologies |
 |:---------|:-------------|
 | **Backend** | PHP 8+, Laravel, RESTful API design |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React, Angular, Bootstrap, **TailwindCSS** |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React, Angular, Bootstrap, TailwindCSS |
 | **Database** | MySQL, Firebase |
-| **DevOps** | Git, GitHub, Agile methodologies, CI/CD |
-| **Testing** | Unit testing, debugging, performance optimization |
+| **DevOps & Tools** | Git, GitHub, Agile methodologies, CI/CD basics, Unit Testing, Debugging |
+| **Design & Data** | SPSS, KoboCollect, PowerBI, Adobe Photoshop, Canva, MS Office Suite |
 
-### 🖥️ IT Infrastructure & Management
+### 🔧 IT Infrastructure & Management
 
 | Category | Skills |
 |:---------|:------|
-| **IT Management** | Team leadership, IT project management, digital strategy |
-| **Hardware** | Laptop/desktop repair, motherboard-level diagnostics, custom assembly |
-| **Operating Systems** | Windows, Linux (Ubuntu/Debian), macOS |
-| **System Optimization** | Malware removal, performance tuning, secure backups |
-| **Data Recovery** | Professional data recovery, secure erasure, disaster recovery |
-
-### 📊 Data Analysis & Design Tools
-
-<div align="center">
-
-`SPSS` • `KoboCollect` • `PowerBI` • `Adobe Photoshop` • `Wondershare Filmora` • `Canva` • `Microsoft Office Suite`
-
-</div>
+| **IT Management** | Team leadership, IT project management, digital strategy for NGOs |
+| **Hardware** | Laptop/desktop repair, motherboard diagnostics, custom PC assembly |
+| **Systems** | Windows, Linux (Ubuntu/Debian), macOS |
+| **Optimization** | Malware removal, performance tuning, secure backups, data recovery |
 
 ---
 
@@ -83,50 +61,43 @@ My expertise spans:
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| 🌐 [**ADFE ASBL**](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian organization. | `PHP` `MySQL` `JavaScript` |
-| 🌐 [**AJEFEM**](https://ajefem.org) | Digital platform for women's empowerment with secure member area and advanced SEO. | `PHP` `MySQL` `JavaScript` `SEO` |
-| 🌐 [**MS Solutions Lab**](https://www.ms-solutionslab.com) | Corporate website for IT consulting firm with admin dashboard. | `PHP` `TailwindCSS` `MySQL` |
-| 🌐 [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | `PHP` `MySQL` `JavaScript` |
-| 🏫 [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
-| 🏙️ [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | `PHP` `JavaScript` `Chart.js` `MySQL` |
-| 🏫 [**MCC Gestion**](https://github.com/cosmas-webdev/gestion_mcc) | Complete training center management system (Apprenants, Formations, Paiements, Certificats). | `PHP` `MySQL` `CSS Grid/Flexbox` `JavaScript` |
-| 📚 [**English Learning App**](https://cosmas-webdev.github.io/english-learning-app/) | Interactive English vocabulary learning app with flashcards, quizzes, and 3000+ words. | `HTML5` `CSS3` `JavaScript` |
-
-<div align="right">
-  <i>✨ Additional proprietary projects available upon request.</i>
-</div>
+| 🌐 [ADFE ASBL](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian NGO. | PHP, MySQL, JS |
+| 🌐 [AJEFEM](https://ajefem.org) | Digital platform for women's empowerment with secure member area and SEO. | PHP, MySQL, JS |
+| 🌐 [MS Solutions Lab](https://www.ms-solutionslab.com) | Corporate IT consulting website with admin dashboard. | PHP, Tailwind, MySQL |
+| 🌐 [Hetec Burkina Digit](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | PHP, MySQL, JS |
+| 🎓 [MCC Portal](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | PHP, MySQL, HTML5, CSS3 |
+| 🏙️ [Gestion Habitants Bukavu](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for the city of Bukavu. | PHP, JS, Chart.js, MySQL |
+| 🎓 [MCC Gestion](https://github.com/cosmas-webdev/gestion_mcc) | Training center management (Students, Courses, Payments, Certificates). | PHP, MySQL, CSS Grid |
+| 📱 [English Learning App](https://cosmas-webdev.github.io/english-learning-app/) | Interactive vocabulary app with 3000+ words, flashcards, and quizzes. | HTML5, CSS3, JS |
 
 ---
 
-## 📊 Tech Stack & Skills
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <h3>🚀 Technologies I Work With</h3>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  
-  <!-- Frontend -->
-  <br><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <a href="https://github.com/cosmas-webdev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br>
+  <a href="https://github.com/cosmas-webdev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Open Source & Collaboration
 
-I welcome inquiries regarding:
-- 💼 **Freelance & Consulting:** Web application development, IT infrastructure
-- 🤝 **Technical Collaborations:** Open-source projects, technical writing
-- 🧠 **Professional Networking:** Connecting with developers, tech leaders, and partners
+I am actively looking to contribute to **Open Source projects** in the PHP/Laravel and JavaScript ecosystems. Whether it's bug fixes, feature development, or documentation improvements — I'm ready to dive in.
+
+- 🟢 **Open for freelance consulting** (Web dev, IT setup, Data analysis).
+- 🟢 **Open to technical writing** and mentoring.
+
+If you have an interesting project or need a reliable developer, let's talk!
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
   <a href="mailto:cmusafirimugongo2@gmail.com">
@@ -156,5 +127,5 @@ I welcome inquiries regarding:
   <br>
   <i>"Building robust solutions, one commit at a time."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=%F0%9F%91%81%EF%B8%8F" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=👁️" alt="Profile Views" />
 </div>
