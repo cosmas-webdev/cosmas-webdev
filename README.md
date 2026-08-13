@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | IT Manager | Data Analyst & AI Enthusiast | Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;IT+Manager+%7C+Data+Analyst;PHP+%7C+Laravel+%7C+React+%7C+Angular;Computer+Maintenance+%26+Repair;Building+robust+solutions" alt="Professional Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;IT+Manager+%7C+Data+Analyst;PHP+%7C+Laravel+%7C+React+%7C+Angular;Computer+Maintenance+%26+Repair;Building+robust+solutions" alt="Typing SVG" />
 
 <br>
 
@@ -24,7 +24,9 @@
 
 I am a **Full-Stack Developer**, **IT Manager**, and **Data Analyst** based in **Bukavu, Democratic Republic of the Congo**, with **6+ years of experience** delivering robust web applications and managing IT infrastructure for humanitarian organizations.
 
-I specialize in the full development lifecycle — from backend architecture (PHP/Laravel) and frontend integration (React, Angular, TailwindCSS) to database management (MySQL, Firebase) and IT operations. I am currently seeking **open-source collaborations** and **freelance consulting opportunities** to help scale impactful projects.
+I specialize in the full development lifecycle — from backend architecture (PHP/Laravel) and frontend integration (React, Angular, TailwindCSS) to database management (MySQL, Firebase) and IT operations. 
+
+I am currently seeking **open-source collaborations** and **freelance consulting opportunities** to help scale impactful projects.
 
 📍 **Location:** Bukavu, DRC  
 📧 **Email:** [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com)  
@@ -34,26 +36,29 @@ I specialize in the full development lifecycle — from backend architecture (PH
 
 ---
 
-## 🛠️ Core Competencies
+## 🛠️ Core Competencies & Tech Stack
 
-### 💻 Software Engineering & Web Development
+<div align="center">
 
-| Category | Technologies |
-|:---------|:-------------|
-| **Backend** | PHP 8+, Laravel, RESTful API design |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React, Angular, Bootstrap, TailwindCSS |
-| **Database** | MySQL, Firebase |
-| **DevOps & Tools** | Git, GitHub, Agile methodologies, CI/CD basics, Unit Testing, Debugging |
-| **Design & Data** | SPSS, KoboCollect, PowerBI, Adobe Photoshop, Canva, MS Office Suite |
+### Backend & Databases
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-### 🔧 IT Infrastructure & Management
+### Frontend & Design
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-| Category | Skills |
-|:---------|:------|
-| **IT Management** | Team leadership, IT project management, digital strategy for NGOs |
-| **Hardware** | Laptop/desktop repair, motherboard diagnostics, custom PC assembly |
-| **Systems** | Windows, Linux (Ubuntu/Debian), macOS |
-| **Optimization** | Malware removal, performance tuning, secure backups, data recovery |
+### Tools & DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
 
 ---
 
@@ -62,13 +67,12 @@ I specialize in the full development lifecycle — from backend architecture (PH
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
 | 🌐 [ADFE ASBL](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian NGO. | PHP, MySQL, JS |
-| 🌐 [AJEFEM](https://ajefem.org) | Digital platform for women's empowerment with secure member area and SEO. | PHP, MySQL, JS |
+| 🌐 [AJEFEM](https://ajefem.org) | Digital platform for women's empowerment with secure member area. | PHP, MySQL, SEO |
 | 🌐 [MS Solutions Lab](https://www.ms-solutionslab.com) | Corporate IT consulting website with admin dashboard. | PHP, Tailwind, MySQL |
 | 🌐 [Hetec Burkina Digit](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | PHP, MySQL, JS |
-| 🎓 [MCC Portal](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | PHP, MySQL, HTML5, CSS3 |
-| 🏙️ [Gestion Habitants Bukavu](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for the city of Bukavu. | PHP, JS, Chart.js, MySQL |
-| 🎓 [MCC Gestion](https://github.com/cosmas-webdev/gestion_mcc) | Training center management (Students, Courses, Payments, Certificates). | PHP, MySQL, CSS Grid |
-| 📱 [English Learning App](https://cosmas-webdev.github.io/english-learning-app/) | Interactive vocabulary app with 3000+ words, flashcards, and quizzes. | HTML5, CSS3, JS |
+| 🎓 [MCC Portal](https://mcc.adfeasbl.org/) | Educational portal for course management and certifications. | PHP, MySQL, HTML5 |
+| 🏙️ [Gestion Habitants Bukavu](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for the city of Bukavu. | PHP, Chart.js, MySQL |
+| 📱 [English Learning App](https://cosmas-webdev.github.io/english-learning-app/) | Interactive vocabulary app with 3000+ words and flashcards. | HTML5, CSS3, JS |
 
 ---
 
@@ -76,9 +80,9 @@ I specialize in the full development lifecycle — from backend architecture (PH
 
 <div align="center">
   <a href="https://github.com/cosmas-webdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmas-webdev&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=cosmas-webdev&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
-  <br>
+  <br><br>
   <a href="https://github.com/cosmas-webdev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmas-webdev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
@@ -90,8 +94,8 @@ I specialize in the full development lifecycle — from backend architecture (PH
 
 I am actively looking to contribute to **Open Source projects** in the PHP/Laravel and JavaScript ecosystems. Whether it's bug fixes, feature development, or documentation improvements — I'm ready to dive in.
 
-- 🟢 **Open for freelance consulting** (Web dev, IT setup, Data analysis).
-- 🟢 **Open to technical writing** and mentoring.
+✅ **Open for freelance consulting** (Web development, IT setup, Data analysis).  
+✅ **Open to technical writing** and mentoring.  
 
 If you have an interesting project or need a reliable developer, let's talk!
 
