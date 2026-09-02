@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | IT Manager | Data Analyst & AI Enthusiast | Open Source Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;IT+Manager+%7C+Data+Analyst;PHP+%7C+Laravel+%7C+React+%7C+Angular;Computer+Maintenance+%26+Repair;Building+robust+solutions" alt="Professional Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;IT+Manager+%7C+Data+Analyst;PHP+%7C+Laravel+%7C+React+%7C+Angular;Python+%7C+Pandas+%7C+MySQL+%7C+PowerBI;Computer+Maintenance+%26+Repair;Building+robust+solutions" alt="Professional Typing SVG" />
 
 <br>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/🌐_Portfolio-cosmas--musafiri.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=👁️_Profile_Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=👨‍💻_Profile_Views" alt="Profile Views" />
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 📋 Professional Profile
+## 👨‍💼 Professional Profile
 
 I am a **Full-Stack Developer**, **IT Manager**, and **Data Analyst** based in **Bukavu, Democratic Republic of the Congo**, with **6+ years of experience** delivering robust web applications and managing IT infrastructure for humanitarian organizations.
 
@@ -28,6 +28,7 @@ My expertise spans:
 - 💻 **Software Engineering:** Full development lifecycle, including backend architecture (PHP/Laravel), frontend integration (React, Angular, TailwindCSS), and database management (MySQL, Firebase).
 - 🏢 **IT Management:** Currently serving as **IT Manager at ADFE ASBL**, designing and maintaining reliable digital solutions for humanitarian missions.
 - 🔧 **Hardware & Infrastructure:** Computer maintenance, diagnostics, data recovery, and system optimization.
+- 📊 **Data Analysis & AI:** Advanced data analysis using **Python** (Pandas, Matplotlib, Seaborn), MySQL, and PowerBI.
 
 📍 **Location:** Bukavu, DRC  
 📧 **Email:** [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com)  
@@ -69,13 +70,15 @@ My expertise spans:
 | **System Optimization** | Malware removal, performance tuning, secure backups |
 | **Data Recovery** | Professional data recovery, secure erasure, disaster recovery |
 
-### 📊 Data Analysis & Design Tools
+### 📊 Data Analysis & AI
 
-<div align="center">
-
-`SPSS` • `KoboCollect` • `PowerBI` • `Adobe Photoshop` • `Wondershare Filmora` • `Canva` • `Microsoft Office Suite`
-
-</div>
+| Category | Skills |
+|:---------|:------|
+| **Languages** | **Python** (Pandas, Matplotlib, Seaborn, NumPy) |
+| **Databases** | MySQL, Microsoft SQL Server |
+| **Visualization** | PowerBI, Matplotlib, Seaborn, Streamlit |
+| **Data Collection** | KoboToolbox, KoboCollect |
+| **AI & Automation** | Machine Learning basics, Data Pipelines, Automation scripts |
 
 ---
 
@@ -87,21 +90,22 @@ My expertise spans:
 | 🌐 [**AJEFEM**](https://ajefem.org) | Digital platform for women's empowerment with secure member area and advanced SEO. | `PHP` `MySQL` `JavaScript` `SEO` |
 | 🌐 [**MS Solutions Lab**](https://www.ms-solutionslab.com) | Corporate website for IT consulting firm with admin dashboard. | `PHP` `TailwindCSS` `MySQL` |
 | 🌐 [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | `PHP` `MySQL` `JavaScript` |
-| 🎓 [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
+| 📚 [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
 | 🏙️ [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | `PHP` `JavaScript` `Chart.js` `MySQL` |
-| 🎓 [**MCC Gestion**](https://github.com/cosmas-webdev/gestion_mcc) | Complete training center management system (Apprenants, Formations, Paiements, Certificats). | `PHP` `MySQL` `CSS Grid/Flexbox` `JavaScript` |
+| 📚 [**MCC Gestion**](https://github.com/cosmas-webdev/gestion_mcc) | Complete training center management system (Apprenants, Formations, Paiements, Certificats). | `PHP` `MySQL` `CSS Grid/Flexbox` `JavaScript` |
 | 📱 [**English Learning App**](https://cosmas-webdev.github.io/english-learning-app/) | Interactive English vocabulary learning app with flashcards, quizzes, and 3000+ words. | `HTML5` `CSS3` `JavaScript` |
+| 📊 [**Bralima Data Analysis**](https://github.com/cosmas-webdev/Bralima) | Full data pipeline: KoboToolbox collection → MySQL storage → Python cleaning & visualization. | `Python` `Pandas` `MySQL` `KoboToolbox` `Seaborn` |
 
 <div align="right">
-  <i>✨ Additional proprietary projects available upon request.</i>
+  <i>✳️ Additional proprietary projects available upon request.</i>
 </div>
 
 ---
 
-## 📊 Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <h3>🚀 Technologies I Work With</h3>
+  <h3>💻 Technologies I Work With</h3>
   
   <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -117,6 +121,15 @@ My expertise spans:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <!-- Data & AI -->
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/KoboToolbox-2E86AB?style=for-the-badge&logo=KoboToolbox&logoColor=white" />
 </div>
 
 ---
@@ -156,5 +169,5 @@ I welcome inquiries regarding:
   <br>
   <i>"Building robust solutions, one commit at a time."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=👁️" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=👨‍💻" alt="Profile Views" />
 </div>
