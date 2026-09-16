@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Cosmas MUSAFIRI MUGONGO
+# Cosmas MUSAFIRI MUGONGO
 
 ### Full-Stack Developer | IT Manager | Data Analyst & AI Enthusiast | Open Source Enthusiast
 
@@ -9,10 +9,10 @@
 <br>
 
 <a href="https://cosmas-musafiri-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-cosmas--musafiri.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-cosmas--musafiri.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=👨‍💻_Profile_Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=for-the-badge&label=Profile_Views" alt="Profile Views" />
 
 </div>
 
@@ -20,25 +20,25 @@
 
 ---
 
-## 👨‍💼 Professional Profile
+## Professional Profile
 
 I am a **Full-Stack Developer**, **IT Manager**, and **Data Analyst** based in **Bukavu, Democratic Republic of the Congo**, with **6+ years of experience** delivering robust web applications and managing IT infrastructure for humanitarian organizations.
 
 My expertise spans:
-- 💻 **Software Engineering:** Full development lifecycle, including backend architecture (PHP/Laravel), frontend integration (React, Angular, TailwindCSS), and database management (MySQL, Firebase).
-- 🏢 **IT Management:** Currently serving as **IT Manager at ADFE ASBL**, designing and maintaining reliable digital solutions for humanitarian missions.
-- 🔧 **Hardware & Infrastructure:** Computer maintenance, diagnostics, data recovery, and system optimization.
-- 📊 **Data Analysis & AI:** Advanced data analysis using **Python** (Pandas, Matplotlib, Seaborn), MySQL, and PowerBI.
+- **Software Engineering:** Full development lifecycle, including backend architecture (PHP/Laravel), frontend integration (React, Angular, TailwindCSS), and database management (MySQL, Firebase).
+- **IT Management:** Currently serving as **IT Manager at ADFE ASBL**, designing and maintaining reliable digital solutions for humanitarian missions.
+- **Hardware & Infrastructure:** Computer maintenance, diagnostics, data recovery, and system optimization.
+- **Data Analysis & AI:** Advanced data analysis using **Python** (Pandas, Matplotlib, Seaborn), MySQL, and PowerBI.
 
-📍 **Location:** Bukavu, DRC  
-📧 **Email:** [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com)  
-📱 **WhatsApp:** [+243 971 312 601](https://wa.me/243971312601)  
-🔗 **LinkedIn:** [linkedin.com/in/cosmas-musafiri-mugongo-614541325](https://linkedin.com/in/cosmas-musafiri-mugongo-614541325)  
-🌐 **Portfolio:** [cosmas-musafiri-portfolio.vercel.app](https://cosmas-musafiri-portfolio.vercel.app)
+**Location:** Bukavu, DRC  
+**Email:** [cmusafirimugongo2@gmail.com](mailto:cmusafirimugongo2@gmail.com)  
+**WhatsApp:** [+243 971 312 601](https://wa.me/243971312601)  
+**LinkedIn:** [linkedin.com/in/cosmas-musafiri-mugongo-614541325](https://linkedin.com/in/cosmas-musafiri-mugongo-614541325)  
+**Portfolio:** [cosmas-musafiri-portfolio.vercel.app](https://cosmas-musafiri-portfolio.vercel.app)
 
 ---
 
-## 🌐 Languages
+## Languages
 
 | Language | Proficiency |
 |:---------|:------------|
@@ -48,9 +48,9 @@ My expertise spans:
 
 ---
 
-## 🛠️ Core Competencies
+## Core Competencies
 
-### 💻 Software Engineering & Web Development
+### Software Engineering & Web Development
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -60,7 +60,7 @@ My expertise spans:
 | **DevOps** | Git, GitHub, Agile methodologies, CI/CD |
 | **Testing** | Unit testing, debugging, performance optimization |
 
-### 🖥️ IT Infrastructure & Management
+### IT Infrastructure & Management
 
 | Category | Skills |
 |:---------|:------|
@@ -70,7 +70,7 @@ My expertise spans:
 | **System Optimization** | Malware removal, performance tuning, secure backups |
 | **Data Recovery** | Professional data recovery, secure erasure, disaster recovery |
 
-### 📊 Data Analysis & AI
+### Data Analysis & AI
 
 | Category | Skills |
 |:---------|:------|
@@ -82,30 +82,30 @@ My expertise spans:
 
 ---
 
-## 🚀 Featured Projects & Deployments
+## Featured Projects & Deployments
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| 🌐 [**ADFE ASBL**](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian organization. | `PHP` `MySQL` `JavaScript` |
-| 🌐 [**AJEFEM**](https://ajefem.org) | Digital platform for women's empowerment with secure member area and advanced SEO. | `PHP` `MySQL` `JavaScript` `SEO` |
-| 🌐 [**MS Solutions Lab**](https://www.ms-solutionslab.com) | Corporate website for IT consulting firm with admin dashboard. | `PHP` `TailwindCSS` `MySQL` |
-| 🌐 [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | `PHP` `MySQL` `JavaScript` |
-| 📚 [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
-| 🏙️ [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | `PHP` `JavaScript` `Chart.js` `MySQL` |
-| 📚 [**MCC Gestion**](https://github.com/cosmas-webdev/gestion_mcc) | Complete training center management system (Apprenants, Formations, Paiements, Certificats). | `PHP` `MySQL` `CSS Grid/Flexbox` `JavaScript` |
-| 📱 [**English Learning App**](https://cosmas-webdev.github.io/english-learning-app/) | Interactive English vocabulary learning app with flashcards, quizzes, and 3000+ words. | `HTML5` `CSS3` `JavaScript` |
-| 📊 [**Bralima Data Analysis**](https://github.com/cosmas-webdev/Bralima) | Full data pipeline: KoboToolbox collection → MySQL storage → Python cleaning & visualization. | `Python` `Pandas` `MySQL` `KoboToolbox` `Seaborn` |
+| [**ADFE ASBL**](http://adfeasbl.org) | Institutional website with full back-office for a humanitarian organization. | `PHP` `MySQL` `JavaScript` |
+| [**AJEFEM**](https://ajefem.org) | Digital platform for women's empowerment with secure member area and advanced SEO. | `PHP` `MySQL` `JavaScript` `SEO` |
+| [**MS Solutions Lab**](https://www.ms-solutionslab.com) | Corporate website for IT consulting firm with admin dashboard. | `PHP` `TailwindCSS` `MySQL` |
+| [**Hetec Burkina Digit**](https://hetecburkinadigit.net) | Complete management software for HETEC Burkina Faso. | `PHP` `MySQL` `JavaScript` |
+| [**MCC Portal**](https://mcc.adfeasbl.org/) | Educational portal for course management and digital certifications. | `PHP` `MySQL` `HTML5` `CSS3` |
+| [**Gestion Habitants Bukavu**](https://github.com/cosmas-webdev/Gestion_habitants_Bukavu) | Citizen management system for Bukavu city. | `PHP` `JavaScript` `Chart.js` `MySQL` |
+| [**MCC Gestion**](https://github.com/cosmas-webdev/gestion_mcc) | Complete training center management system (Apprenants, Formations, Paiements, Certificats). | `PHP` `MySQL` `CSS Grid/Flexbox` `JavaScript` |
+| [**English Learning App**](https://cosmas-webdev.github.io/english-learning-app/) | Interactive English vocabulary learning app with flashcards, quizzes, and 3000+ words. | `HTML5` `CSS3` `JavaScript` |
+| [**Bralima Data Analysis**](https://github.com/cosmas-webdev/Bralima) | Full data pipeline: KoboToolbox collection → MySQL storage → Python cleaning & visualization. | `Python` `Pandas` `MySQL` `KoboToolbox` `Seaborn` |
 
 <div align="right">
-  <i>✳️ Additional proprietary projects available upon request.</i>
+  <i>Additional proprietary projects available upon request.</i>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
-  <h3>💻 Technologies I Work With</h3>
+  <h3>Technologies I Work With</h3>
   
   <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -134,12 +134,12 @@ My expertise spans:
 
 ---
 
-## 🤝 Connect & Collaborate
+## Connect & Collaborate
 
 I welcome inquiries regarding:
-- 💼 **Freelance & Consulting:** Web application development, IT infrastructure.
-- 🤝 **Technical Collaborations:** Open-source projects, technical writing.
-- 🌟 **Professional Networking:** Connecting with developers, tech leaders, and partners.
+- **Freelance & Consulting:** Web application development, IT infrastructure.
+- **Technical Collaborations:** Open-source projects, technical writing.
+- **Professional Networking:** Connecting with developers, tech leaders, and partners.
 
 <div align="center">
   <a href="mailto:cmusafirimugongo2@gmail.com">
@@ -169,5 +169,5 @@ I welcome inquiries regarding:
   <br>
   <i>"Building robust solutions, one commit at a time."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=👨‍💻" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cosmas-webdev&color=blueviolet&style=flat-square&label=Profile_Views" alt="Profile Views" />
 </div>
